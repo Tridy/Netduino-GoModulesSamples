@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RgbModule", "RgbModule\RgbModule.csproj", "{47D44B8D-E747-4823-A2D6-F4F9F7F0B7D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotentiometerModule", "PotentiometerModule\PotentiometerModule.csproj", "{17139A51-59D7-417C-8AFF-588A1F90F0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiezoBuzzerModule", "PiezoBuzzerModule\PiezoBuzzerModule.csproj", "{FB15D56C-118E-47B1-AC07-39233D955B77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D44B8D-E747-4823-A2D6-F4F9F7F0B7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D44B8D-E747-4823-A2D6-F4F9F7F0B7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D44B8D-E747-4823-A2D6-F4F9F7F0B7D8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{47D44B8D-E747-4823-A2D6-F4F9F7F0B7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D44B8D-E747-4823-A2D6-F4F9F7F0B7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D44B8D-E747-4823-A2D6-F4F9F7F0B7D8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{17139A51-59D7-417C-8AFF-588A1F90F0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17139A51-59D7-417C-8AFF-588A1F90F0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17139A51-59D7-417C-8AFF-588A1F90F0F3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{17139A51-59D7-417C-8AFF-588A1F90F0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17139A51-59D7-417C-8AFF-588A1F90F0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17139A51-59D7-417C-8AFF-588A1F90F0F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FB15D56C-118E-47B1-AC07-39233D955B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB15D56C-118E-47B1-AC07-39233D955B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB15D56C-118E-47B1-AC07-39233D955B77}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB15D56C-118E-47B1-AC07-39233D955B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB15D56C-118E-47B1-AC07-39233D955B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB15D56C-118E-47B1-AC07-39233D955B77}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
